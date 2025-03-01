@@ -1,0 +1,90 @@
+
+# 🚢 Titanic Survival Prediction - Data Science Project  
+
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)  
+
+## 🌟 Overview  
+The **Titanic Survival Prediction** project aims to predict whether a passenger survived or not using **machine learning models** based on features like age, gender, and class.  
+This project demonstrates **data preprocessing, feature engineering, model training, and evaluation** using various algorithms.  
+
+---
+
+## 📂 Dataset  
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) and includes:  
+
+- 🆔 **PassengerId**: Unique ID  
+- 🎫 **Pclass**: Passenger class (1, 2, 3)  
+- 👤 **Sex**: Gender  
+- 🎂 **Age**: Passenger's age  
+- 👨‍👩‍👦 **SibSp & Parch**: Family members aboard  
+- 💰 **Fare**: Ticket price  
+- 🚢 **Embarked**: Port (C, Q, S)  
+- ❤️ **Survived**: Target variable (0 = No, 1 = Yes)  
+
+---
+
+## 🔥 Data Science Techniques  
+
+### 1️⃣ **Data Preprocessing**  
+✔️ Handling missing values (Mean, Mode)  
+✔️ Encoding categorical variables (One-Hot & Label Encoding)  
+✔️ Feature scaling for numerical data  
+
+### 2️⃣ **Machine Learning Models Used**  
+⚡ **Logistic Regression**  
+🌳 **Decision Tree**  
+🌲 **Random Forest**  
+
+### 3️⃣ **Class Imbalance Handling**  
+🟢 **SMOTE (Synthetic Minority Oversampling Technique)** to balance the dataset  
+
+### 4️⃣ **Evaluation Metrics**  
+📌 **Accuracy**: % of correct predictions  
+📌 **Precision**: True positives among predicted positives  
+📌 **Recall**: True positives among actual positives  
+📌 **F1-Score**: Balance between precision & recall  
+📌 **Confusion Matrix**: Classification analysis  
+
+---
+
+## 📊 Data Visualizations  
+📌 **Survival Rate by Gender** (Bar chart)  
+📌 **Age Distribution** (Histogram)  
+📌 **Survival Rate by Class** (Bar chart)  
+📌 **Correlation Heatmap** (Feature relationships)  
+
+---
+
+## 🎯 Model Performance  
+
+| Model               | Accuracy | Precision | Recall | F1-score |
+|---------------------|----------|-----------|--------|----------|
+| **Logistic Regression** | 80%   | 78%   | 82%   | 80%  |
+| **Decision Tree**   | 85%   | 86%   | 84%   | 85%  |
+| **Random Forest**   | 90%   | 88%   | 92%   | 90%  |
+
+🚀 **Best Model:** Random Forest with **90% accuracy**  
+
+---
+
+## 🏁 Getting Started  
+
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/Chandrashekar0123/SCT_DS_/edit/main
+cd SCT_DS_2
+pip install -r requirements.txt
+
+
+⚙️ Project Workflow
+✅ Step 1: Load & clean the data
+✅ Step 2: Encode categorical variables & scale numerical data
+✅ Step 3: Train Logistic Regression, Decision Tree, Random Forest
+✅ Step 4: Evaluate models using multiple metrics
+✅ Step 5: Compare results & determine the best model
+
+📌 Key Insights
+✔️ Logistic Regression: Decent performance (80% accuracy)
+✔️ Decision Tree: Better than Logistic Regression (85% accuracy)
+✔️ Random Forest: Best model with 90% accuracy 🎯
