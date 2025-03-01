@@ -72,7 +72,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dat
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/Chandrashekar0123/SCT_DS_/edit/main
+git clone https://github.com/Chandrashekar0123/ShadowFox/Advanced/edit/main
 cd SCT_DS_2
 pip install -r requirements.txt
 
