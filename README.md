@@ -1,4 +1,4 @@
-# 🦊 ShadowFox Data Science Repository  
+#  ShadowFox Data Science Repository  
 
 📌 **A collection of Data Science projects completed during the ShadowFox Internship**, covering **Data Analysis, Visualization, and Machine Learning.**  
 
