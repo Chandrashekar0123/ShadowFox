@@ -19,6 +19,10 @@ bash
 pip install pandas matplotlib seaborn numpy
 📂 Project Folder: AQI_Analysis
 
+- **Pandas** provides powerful data structures like **DataFrames** and **Series**, enabling easy data manipulation, filtering, and transformation.  
+- **Matplotlib** allows for creating high-quality visualizations, making data more interpretable.  
+
+
 🚢 Titanic Survival Prediction
 🔹 Objective: Predict survival outcomes based on passenger demographics using Machine Learning.
 
