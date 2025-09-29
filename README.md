@@ -44,10 +44,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 🔹 Objective: Master Pandas for Data Handling and Matplotlib for Data Visualization.
 
 📊 Key Topics Covered:
-✔ Data Cleaning & Transformation
-✔ Aggregations & Grouping in Pandas
-✔ Customizing Charts (Labels, Colors, Legends, Subplots)
-✔ Building Interactive & Informative Visualizations
+✔  Data Cleaning & Transformation
+✔  Aggregations & Grouping in Pandas
+✔  Customizing Charts (Labels, Colors, Legends, Subplots)
+✔  Building Interactive & Informative Visualizations
 
 🚀 Installation:
 
@@ -58,7 +58,7 @@ pip install pandas matplotlib
 📂 Project Folder: Pandas_Matplotlib
 
 🔥 Key Learnings & Insights
-✅ Data Preprocessing significantly improves analysis accuracy.
-✅ EDA & Visualization help uncover hidden trends.
-✅ Feature Engineering enhances machine learning models.
-✅ Combining Pandas & Matplotlib improves data storytelling.
+✅  Data Preprocessing significantly improves analysis accuracy.
+✅  EDA & Visualization help uncover hidden trends.
+✅  Feature Engineering enhances machine learning models.
+✅  Combining Pandas & Matplotlib improves data storytelling.
