@@ -41,7 +41,10 @@ pip install pandas matplotlib seaborn numpy
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-📊 Pandas & Matplotlib Analysis
+---
+
+
+## 📊 Pandas & Matplotlib Analysis
 
 🔹 Objective: Master Pandas for Data Handling and Matplotlib for Data Visualization.
 
