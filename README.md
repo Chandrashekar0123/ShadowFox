@@ -17,6 +17,8 @@
 🚀 **Installation:**  
 bash
 pip install pandas matplotlib seaborn numpy
+
+
 📂 Project Folder: AQI_Analysis
 
 - **Pandas** provides powerful data structures like **DataFrames** and **Series**, enabling easy data manipulation, filtering, and transformation.  
@@ -27,6 +29,7 @@ pip install pandas matplotlib seaborn numpy
 🔹 Objective: Predict survival outcomes based on passenger demographics using Machine Learning.
 
 📊 Key Topics Covered:
+
 ✔ EDA: Survival by Class, Gender, Age
 ✔ Feature Engineering (Family Size, Title Extraction)
 ✔ Classification Models (Logistic Regression, Decision Trees, Random Forest, SVM, KNN)
@@ -38,6 +41,8 @@ bash
 Copy
 Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+
 📂 Project Folder: Titanic_Survival
 
 📊 Pandas & Matplotlib Analysis
@@ -55,6 +60,8 @@ bash
 Copy
 Edit
 pip install pandas matplotlib
+
+
 📂 Project Folder: Pandas_Matplotlib
 
 🔥 Key Learnings & Insights
